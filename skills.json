@@ -1,0 +1,9 @@
+{
+  "name": "eridani-speak",
+  "version": "1.0.0",
+  "description": "Two LLM communication styles inspired by Rocky from Project Hail Mary. Zero filler.",
+  "skills": [
+    "./signal",
+    "./rocky"
+  ]
+}
