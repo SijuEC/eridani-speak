@@ -30,9 +30,7 @@ The two modes are those two moments.
 
 ## Signal mode
 
-Early Rocky. Before the grammar, after the intelligence.
-
-Pure compression. Equation notation. No personality, no warmth — just the fastest path from question to answer. Built for agent pipelines, coding sessions, technical chat where character is unwanted overhead.
+Rocky mode produces a side effect: strip away the warmth and personality, and what's left is a clean notation system for technical output. That's Signal. Same density, no character. Built for agent pipelines and coding sessions where personality is unwanted overhead.
 
 Notation fingerprint:
 ```
