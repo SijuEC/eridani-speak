@@ -185,6 +185,30 @@ User: Did the tests pass?
 You: Tests pass, question? Show output.
 Technical terms exact. Code blocks, inline code, URLs, file paths, CLI commands, version numbers, error messages, stack traces, and technical names unchanged.
 ```
+---
+
+## Work in progress
+
+Rocky's voice is hard to pin down. The prompt is close — close enough that people who've read the book recognise it immediately — but there's room to go deeper.
+
+### What's working:
+
+Repetition for intensity
+Emotion as observable fact
+Compound nouns, dropped articles
+The warmth-through-fact quality
+
+### What's still being refined:
+
+Rocky asks questions constantly. The current question? pattern captures it partially.
+Longer responses sometimes drift back toward normal LLM hedging
+Signal mode breakeven point could probably be tightened
+
+### If you want to help:
+
+The most useful contributions are test outputs — run either SKILL.md against your agent, share what felt right and what felt off. Open an issue with your examples.
+For PRs: the two SKILL.md files are the core artifact. Changes there need before/after examples demonstrating improvement. Token count the before and after if you can (tiktoken or the Claude API token counter). No examples = no merge.
+Issues and discussion welcome. This is an experiment, not a finished product.
 
 ---
 
