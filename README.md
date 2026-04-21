@@ -129,6 +129,10 @@ Active from session start, every session.
 | **Prompt cost** | ~226 tokens | ~251 tokens |
 | **Breakeven** | ~5–6 exchanges | ~6–7 exchanges |
 
+> **Note:** Both modes optimised for day-to-day chat for now. 
+> Not validated for high-stakes agentic pipelines where output quality yet.
+> requires evaluation datasets. Use with evals if task performance is critical.
+
 ---
 
 ## The prompts
