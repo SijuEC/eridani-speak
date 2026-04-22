@@ -126,7 +126,7 @@ Active from session start, every session.
 | **Style** | Alien engineer notation | Alien engineer with personality |
 | **Warmth** | None | Warmth through fact |
 | **Best for** | Pipelines, coding, technical chat | Chat interfaces, pair programming |
-| **Prompt cost** | ~226 tokens | ~251 tokens |
+| **Prompt cost** | ~251 tokens | ~276 tokens |
 | **Breakeven** | ~5–6 exchanges | ~6–7 exchanges |
 
 > **Note:** Both modes optimised for day-to-day chat for now. 
