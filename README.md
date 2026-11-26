@@ -2,6 +2,10 @@
   <img src="https://em-content.zobj.net/source/apple/391/ringed-planet_1fa90.png" width="120" />
 </p>
 
+<!-- yarkr:badges:start -->
+[![Indexed on Yarkr](https://api.yarkr.com/functions/v1/api/api/v1/badges/repos/SijuEC/eridani-speak/version.svg)](https://yarkr.com/arks/sijuec/eridani-speak)
+<!-- yarkr:badges:end -->
+
 <h1 align="center">eridani-speak</h1>
 
 <p align="center">
@@ -118,6 +122,39 @@ Paste the prompt from the relevant SKILL.md into your agent's rules file.
 Active from session start, every session.
 
 ---
+
+<!-- yarkr:install:start -->
+## Install with Yarkr
+
+This repo is indexed on [Yarkr](https://yarkr.com/arks/sijuec/eridani-speak) as the ark [sijuec/eridani-speak](https://yarkr.com/arks/sijuec/eridani-speak), so its skills install into Claude Code, Codex, Cursor and other agent harnesses with one command.
+
+### CLI
+
+Install the whole ark, which Yarkr keeps equal to this repo:
+
+```bash
+npx yarkr-cli sync sijuec/eridani-speak
+```
+
+Or add individual skills:
+
+```bash
+npx yarkr-cli add skill:sijuec/eridani-speak/rocky
+npx yarkr-cli add skill:sijuec/eridani-speak/signal
+```
+
+No Node.js? `curl -fsSL https://yarkr.com/install.sh | sh` (macOS, Linux) or `irm https://yarkr.com/install.ps1 | iex` (Windows PowerShell) installs `yarkr` as a standalone binary; then type `yarkr` in place of `npx yarkr-cli`.
+
+### MCP
+
+Connect your agent to the ark over MCP:
+
+```bash
+npx yarkr-cli mcp add sijuec/eridani-speak
+```
+
+Or point any MCP client at `https://api.yarkr.com/functions/v1/api/mcp/o/sijuec/eridani-speak`.
+<!-- yarkr:install:end -->
 
 ## Signal vs Rocky
 
